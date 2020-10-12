@@ -1,0 +1,26 @@
+_id: req_7b8850e9073e459397b789a593532cd3
+type: Request
+parentId: wrk_71ade24441a64ecdbbe089572513258f
+modified: 1602498921529
+created: 1602498871410
+url: http://localhost:8080/login
+name: My Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"login": "integrator_user", "password": "eputs2020"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_7dcfac8b5bbd4ce2a16fa5da45dc06dd
+authentication: {}
+metaSortKey: -1602498871410
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
